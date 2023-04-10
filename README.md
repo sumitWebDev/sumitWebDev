@@ -39,6 +39,8 @@ Developer.
 
 ## Git Stats:
 
+![](https://komarev.com/ghpvc/?username=sumitWebDev&color=dc143c)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitWebDev&layout=compact)
 
 ![Sumit github stats](https://github-readme-stats.vercel.app/api?username=sumitWebDev&theme=radical&show_icons=true&count_private=true)
