@@ -1,6 +1,38 @@
 ![Sumit K D (2)](https://user-images.githubusercontent.com/23627930/230817647-cd16ac7c-60a6-4f89-9fd2-4015f89f975a.jpg)
 
-## Github Stats:
+Logical and result-driven Front End Developer dedicated to building and optimizing user-focused web applications with 6+
+years’ experience. Seeking to leverage broad development experience and hands-on technical expertise as a Front End
+Developer.
+
+- Working with [Publicis Sapient](https://www.publicissapient.com/)
+- Aspiring Full Stack Developer
+- Constant Learner
+- Have a peek at my [Resume](https://drive.google.com/file/d/1NZxaQgH9CIg6N8QpHqJdGTt_G8_HKeH2/view)
+
+## Tech Stack:
+#### Front End 
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![TAILWINDCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![BOOSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![JQUERY](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![CHARTJS](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![ELECTRON](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
+![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NODE JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+#### Databases
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### Hosting
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+## Git Stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitWebDev&layout=compact)
 
