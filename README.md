@@ -7,7 +7,8 @@ Developer.
 - Working with [Publicis Sapient](https://www.publicissapient.com/)
 - Aspiring Full Stack Developer
 - Constant Learner
-- Have a peek at my [Resume](https://drive.google.com/file/d/1NZxaQgH9CIg6N8QpHqJdGTt_G8_HKeH2/view)
+
+##### 🔖 Have a peek at my [Resume](https://drive.google.com/file/d/1NZxaQgH9CIg6N8QpHqJdGTt_G8_HKeH2/view)
 
 ## Tech Stack:
 #### Front End 
