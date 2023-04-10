@@ -1,5 +1,8 @@
 ![Sumit K D (2)](https://user-images.githubusercontent.com/23627930/230817647-cd16ac7c-60a6-4f89-9fd2-4015f89f975a.jpg)
-https://github-readme-stats.vercel.app/api?username=sumitWebDev
+
+## Github Stats:
+
+![Sumit github stats](https://github-readme-stats.vercel.app/api?username=sumitWebDev&theme=radical&show_icons=true&count_private=true)
 ## Connect with me:
 
 <p align = "center">
