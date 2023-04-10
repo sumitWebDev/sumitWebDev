@@ -2,7 +2,10 @@
 
 ## Github Stats:
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitWebDev&layout=compact)
+
 ![Sumit github stats](https://github-readme-stats.vercel.app/api?username=sumitWebDev&theme=radical&show_icons=true&count_private=true)
+
 ## Connect with me:
 
 <p align = "center">
