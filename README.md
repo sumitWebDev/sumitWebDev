@@ -1,10 +1,12 @@
+
 ![Sumit K D (2)](https://user-images.githubusercontent.com/23627930/230817647-cd16ac7c-60a6-4f89-9fd2-4015f89f975a.jpg)
 
 Logical and result-driven Front End Developer dedicated to building and optimizing user-focused web applications with 6+
 years’ experience. Seeking to leverage broad development experience and hands-on technical expertise as a Front End
 Developer.
 
-- Working with [Publicis Sapient](https://www.publicissapient.com/)
+- Working with [IRIS CX](https://www.iriscx.com/)
+- Ex [Publicis Sapient](https://www.publicissapient.com/)
 - Aspiring Full Stack Developer
 - Constant Learner
 
