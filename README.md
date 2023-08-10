@@ -10,7 +10,7 @@ Developer.
 - Aspiring Full Stack Developer
 - Constant Learner
 
-##### 🔖 Have a peek at my [Resume](https://drive.google.com/file/d/1NZxaQgH9CIg6N8QpHqJdGTt_G8_HKeH2/view)
+##### 🔖 Have a peek at my [Resume](https://drive.google.com/file/d/1ob1rBGkRsZp-CTOgrk_ZonWuMRncONrf/view)
 
 ## Tech Stack:
 #### Front End 
