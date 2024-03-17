@@ -5,7 +5,7 @@ Logical and result-driven Front End Developer dedicated to building and optimizi
 years’ experience. Seeking to leverage broad development experience and hands-on technical expertise as a Front End
 Developer.
 
-- Working with [IRIS CX](https://www.iriscx.com/)
+- Working in tech
 - Ex [Publicis Sapient](https://www.publicissapient.com/)
 - Aspiring Full Stack Developer
 - Constant Learner
