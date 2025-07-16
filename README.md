@@ -3,7 +3,8 @@
 
 Logical and result-driven Front End Developer dedicated to building and optimizing user-focused web applications with 6+
 years’ experience. Seeking to leverage broad development experience and hands-on technical expertise as a Front End
-Developer. [Check Here](https://sumitwebdev.github.io/sumitPortfolio/)
+Developer. 
+[Check Here](https://sumitwebdev.github.io/sumitPortfolio/)
 
 - Working in tech
 - Ex [Publicis Sapient](https://www.publicissapient.com/)
